@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{
+    overflow-x: hidden
+}
+
+@import "./partials/variables";
+@import "./partials/header";
+@import "./partials/spotlight";
+@import "./partials/cardwrapper";
