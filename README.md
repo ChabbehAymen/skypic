@@ -12,7 +12,7 @@ Sky Pic it's more like a school project that developed by :
 - Sarrouj zaid
 - Zannouti Mohammed
 - Chabbeh Aymen
-- Mohammed
+- Mohammed Bakkali
 
 ## Discreption
 
